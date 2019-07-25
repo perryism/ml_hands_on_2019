@@ -1,3 +1,7 @@
 jupyter
 sklearn
 pandas
+pandas-profiling
+toolz
+matplotlib
+wordcloud
