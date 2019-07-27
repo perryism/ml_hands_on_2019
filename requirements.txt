@@ -5,3 +5,6 @@ pandas-profiling
 toolz
 matplotlib
 wordcloud
+keras
+tensorflow
+wordcloud
